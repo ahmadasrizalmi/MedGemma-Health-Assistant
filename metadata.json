@@ -1,0 +1,5 @@
+{
+  "name": "MedGemma Health Assistant",
+  "description": "An intelligent healthcare assistant powered by Google's Gemini API, inspired by MedGemma. It offers a conversational interface to answer health-related questions, and can analyze uploaded images and documents to provide helpful information. Always consult a professional for medical advice.",
+  "requestFramePermissions": []
+}
